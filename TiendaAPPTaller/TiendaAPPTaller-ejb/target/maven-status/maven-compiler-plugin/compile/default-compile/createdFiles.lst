@@ -1,0 +1,5 @@
+com\tienda\entidades\Proveedor_.class
+com\tienda\session\ProveedorFacade.class
+com\tienda\entidades\Proveedor.class
+com\tienda\session\ProveedorFacadeLocal.class
+com\tienda\session\AbstractFacade.class
