@@ -1,4 +1,4 @@
-# Grupal-07
+# Aplicación J2EE
 **Asignatura:** Alicaciones Distribuidas\
 **Facultad:** ESFOT\
 **Descripción:**\
@@ -8,3 +8,5 @@ Aplicación compartida en la red externa, recoge todos los conceptos y práctica
 * Edison Jumbo
 * Christian Mainato
 * Jhonathan Pizarra
+
+*(Prueba #1 del primer bimestre)*
